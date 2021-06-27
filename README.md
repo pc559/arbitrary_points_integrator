@@ -6,4 +6,4 @@ integral = np.dot(weights, f(xs))
 
 giving a cheap way of integrating many functions over the same fixed set of sample points.
 
-Also includes code to generate integration weights using the same method for functions integrated against an oscillatory weight function, giving a cheap way of integrating many functions over the same fixed set of sample points, against the same exp<sup>iwx</sub> weight function.
+Also includes code to generate integration weights using the same method for functions integrated against an oscillatory weight function, giving a cheap way of integrating many functions over the same fixed set of sample points, against the same exp<sup>iwx</sup> weight function.
